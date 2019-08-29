@@ -13,3 +13,6 @@ In order to test the android app, Android Studio 3.x has to be launched beforeha
 
 export ANDROID_SDK=~/Library/Android/sdk
 export ANDROID_HOME=~/Library/Android/sdk
+
+npm install --save react-navigation
+npm install
